@@ -1,3 +1,6 @@
+![Image of Ingenuity](https://github.com/TheAppWizard/IngenuitySwiftUI/blob/main/output.png)
+
+
 # IngenuitySwiftUI
 Nasa Ingenuity Helicopter animation made with SwiftUI.
 
@@ -6,6 +9,5 @@ Ingenuity is a small robotic helicopter operating on Mars as part of NASA's Mars
 
 
 
-## Output Ingenuity
-![Image of Ingenuity](https://github.com/TheAppWizard/IngenuitySwiftUI/blob/main/output.png)
+
 
