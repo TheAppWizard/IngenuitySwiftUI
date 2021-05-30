@@ -47,6 +47,16 @@ struct IngenuityAnimation: UIViewRepresentable {
 }
 ```
 
+## IngenuityView
+```
+struct IngenuityView: View {
+         var body: some View {
+            IngenuityAnimation()
+       }
+    }
+
+```
+
 
 
 
